@@ -1,4 +1,4 @@
-**Customer Churn Prediction System**
+**Customer Churn Prediction System:**
 AI-Powered Customer Retention Analytics using Machine Learning
 
 **1. Overview:**
